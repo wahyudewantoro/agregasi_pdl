@@ -110,7 +110,6 @@ class ReversalController extends Controller
                             $data['Pokok'] = $res->pokok;
                             $data['Denda'] = $res->denda;
                             $data['Total'] = $res->total;
-                            $data['Pengesahan'] = $res->pengesahan;
                             $data['Referensi'] = $res->referensi;
                             $data['KodeInstitusi'] = $res->kodeinstitusi;
                             $data['NoHp'] = $res->nohp;
